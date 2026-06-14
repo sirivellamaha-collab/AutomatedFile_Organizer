@@ -1,5 +1,4 @@
-# Automated File Organizer
-intern id - 
+# Automated File Organizer 
 
 ## Project Details
 
