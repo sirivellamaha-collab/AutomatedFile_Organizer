@@ -1,0 +1,35 @@
+
+  Organization Session — (generated on first run)
+
+This file is created/updated automatically each time you
+click "Organize Files".  Each session is appended so you
+retain a full history of every operation.
+
+Example output:
+
+  Organization Session — 2024-06-01 14:32:11
+
+Folder   : C:\Users\User\Desktop\MyFiles
+Files found: 14
+--------------------------------------------------
+[MOVED]  photo.jpg           →  Images/photo.jpg
+[MOVED]  resume.pdf          →  Documents/resume.pdf
+[MOVED]  lecture.mp4         →  Videos/lecture.mp4
+[MOVED]  song.mp3            →  Audio/song.mp3
+[MOVED]  backup.zip          →  Archives/backup.zip
+[MOVED]  notes.txt           →  Documents/notes.txt
+[MOVED]  photo.jpg           →  Images/photo_1.jpg  (renamed → photo_1.jpg)
+[MOVED]  data.csv            →  Others/data.csv
+--------------------------------------------------
+Total scanned : 14
+Total moved   : 8
+Skipped       : 0
+Errors        : 0
+
+Category breakdown:
+  Images        : 2
+  Documents     : 2
+  Videos        : 1
+  Audio         : 1
+  Archives      : 1
+  Others        : 1
