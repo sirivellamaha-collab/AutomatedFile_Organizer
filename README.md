@@ -90,39 +90,56 @@ python main.py
 
 ## Project Structure
 
-Automated_File_Organizer/
-│
-├── main.py                  ← Tkinter GUI entry point
-├── organizer.py             ← Core organization logic
-├── file_utils.py            ← Extension mapping, path helpers, log writer
-├── requirements.txt         ← Dependency notes
-├── README.md                ← This file
-├── organization_log.txt     ← Auto-generated on each run
-│
-├── screenshots/             ← GUI & output screenshots
-└── documentation/
-   └── Project_Documentation.md
+• main.py – Tkinter GUI entry point
+
+• organizer.py – Core organization logic
+
+• file_utils.py – Extension mapping, path helpers, and log writer
+
+• requirements.txt – Dependency notes
+
+• README.md – Project documentation
+
+• organization_log.txt – Auto-generated log file
+
+• screenshots/
+  - GUI and output screenshots
+
+• documentation/
+  - Project_Documentation.md
 
 ## Expected Output
 
-After clicking Organize Files on a folder containing mixed files:
+Expected Output
+After clicking the Organize Files button on a folder containing mixed file types, the application automatically creates category folders and moves files into their respective locations.
 
-MyFolder/
-├── Images/
-│   ├── photo.jpg
-│   └── banner.png
-├── Documents/
-│   ├── resume.pdf
-│   └── notes.txt
-├── Videos/
-│   └── demo.mp4
-├── Audio/
-│   └── track.mp3
-├── Archives/
-│   └── backup.zip
-├── Others/
-│   └── data.csv
-└── organization_log.txt
+Generated Folders and Files:
+
+1. Images
+   - photo.jpg
+   - banner.png
+
+2. Documents
+   - resume.pdf
+   - notes.txt
+
+3. Videos
+   - demo.mp4
+
+4. Audio
+   - track.mp3
+
+5. Archives
+   - backup.zip
+
+6. Others
+   - data.csv
+
+7. Log File
+   - organization_log.txt
+
+Result
+All files are organized into category-specific folders, and a log file is generated to record the organization process.
 
 ## Conclusion
 
