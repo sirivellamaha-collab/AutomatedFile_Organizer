@@ -1,6 +1,6 @@
 Requirements
 
-• Python 3.10 or later
+• Python 3.10.11 
 
 Dependencies
 
